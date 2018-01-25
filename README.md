@@ -21,7 +21,7 @@ Building
 This project MUST be built in Eclipse, just download the entire
 repository and import it into eclipse.
 
-#Algorithm
+Algorithm
 ------
 The AI for this project uses a minmax algorithm with alpha-beta pruning,
 to search the most ideal moves. The implementation of this
